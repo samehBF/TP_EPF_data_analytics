@@ -1,2 +1,7 @@
-# TP_EPF_data_analytics
-Exercices to practice data analysis
+# TP data analysis
+These are exercices to practice data analysis.
+You will essentially learn:
+
+- How to manipulate data with pandas
+
+- How to manipulate time series data
